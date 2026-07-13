@@ -105,3 +105,7 @@ chat-capture-codex-skills/
     telegram-chat-capture/
 ```
 
+
+## 迁移说明
+
+本项目原托管在 `sammielisha425-design` 账号下；因原账号触发风控后无法登录，现已镜像迁移到当前账号 `changshengjiuan13-eng` 继续维护。迁移时已尽量保留原提交历史、tag 与 release 资料。
